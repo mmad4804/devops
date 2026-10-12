@@ -72,7 +72,7 @@ Write in your journal the answer to the following questions:
 Ponder on this as you seek to master and apply the concepts of this course. You will repeat this same exercise at the conclusion of the course.
 
 ```masteryls
-{"id":"ad9f8fcc-e180-430a-aef1-9cce645bad04", "title":"Christlike learning", "type":"multiple-choice", "syncGrade":true, "autoGrade":true }
+{"id":"ad9f8fcc-e180-430a-aef1-9cce645bad04", "title":"Christlike learning", "type":"multiple-choice", "syncGrade":true, "autoGrade":true, "gradingCriteria":"This assignment does not earn grace days. Do not award or mention grace days in feedback." }
 I have completed the **Christlike Learning** assignment, including recording how to show gratitude, plead for help, and use my talents for good in all aspects of my life.
 
 

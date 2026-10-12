@@ -19,7 +19,7 @@ Write in your journal the answer to the following questions:
 
 
 ```masteryls
-{"id":"e144e3cc-c7da-412a-9814-914e96955809", "title":"Christlike learning conclusion assignment", "type":"multiple-choice", "syncGrade":true, "autoGrade":true }
+{"id":"e144e3cc-c7da-412a-9814-914e96955809", "title":"Christlike learning conclusion assignment", "type":"multiple-choice", "syncGrade":true, "autoGrade":true, "gradingCriteria":"This assignment does not earn grace days. Do not award or mention grace days in feedback." }
 I have completed the **Christlike Learning conclusion** assignment, including recording how to show gratitude, plead for help, and use my talents for good in all aspects of my life.
 
 
